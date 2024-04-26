@@ -2,7 +2,7 @@
 
 ## To run:
 
-cargo run stockholm SV
+```cargo run stockholm SV```
 
 And you can change stockholm to any city
 and SV to the country where the city is located
